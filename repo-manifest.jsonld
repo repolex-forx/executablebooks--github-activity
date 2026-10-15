@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/github-activity/commit/a73faf108258dd3350c8eed84693dcfec149b6d8",
       "git:hexsha": "a73faf108258dd3350c8eed84693dcfec149b6d8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T14:08:15.400456+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/github-activity/commit/32f89fd9e024c58c2fae84bda918eae9995fa4f9",
